@@ -1,0 +1,1 @@
+Simple fitness application which based on your anthropometry and diet provides you calculated daily ration. 
